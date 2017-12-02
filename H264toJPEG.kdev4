@@ -1,4 +1,4 @@
 [Project]
-Name=ffmpegUse
+Name=H264toJPEG
 Manager=KDevCMakeManager
 VersionControl=kdevgit
